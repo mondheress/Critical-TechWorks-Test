@@ -1,0 +1,47 @@
+# Built objects
+bin/
+gen/
+out/
+.gradle/
+build/
+
+# App-specific build folders
+app/build/
+
+# Android Studio / IntelliJ files
+.idea/
+*.iml
+*.iws
+.project
+.classpath
+.settings/
+local.properties
+
+# Log files
+*.log
+
+# Captures and profiling
+*.hprof
+*.pyc
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Device/Emulator specific
+Captures/
+
+# Keystores (Important for security)
+*.jks
+*.keystore
+*.p12
+
+# Secrets / API Keys (If you use a secrets.properties file)
+secrets.properties
+
+# Google Services (Firebase)
+# Only exclude this if you want to keep your project ID private
+# google-services.json

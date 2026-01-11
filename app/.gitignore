@@ -1,3 +1,6 @@
+# Kotlin-specific
+.kotlin/
+
 # Built objects
 bin/
 gen/

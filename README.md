@@ -29,4 +29,5 @@ Add your API_KEY to the local.properties file:
 Properties
 
 API_KEY="YOUR_KEY_HERE"
+
 Sync Gradle and run the app using either the bbc or abc build flavor.
